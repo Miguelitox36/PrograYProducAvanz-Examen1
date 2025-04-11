@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace PrograYProducAvanz_Examen1
 {
-    internal class Program
+    public class Enemy : Character
     {
-        static void Main(string[] args)
+        public Enemy(string name, int health, int damage) : base(name, health, damage) 
         {
-            Game game = new Game();
-            game.Start();
+
         }
     }
 }
