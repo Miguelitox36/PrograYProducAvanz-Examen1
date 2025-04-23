@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="PrograYProducAvanz_Examen1.Character">
-    <Position X="2.25" Y="1.25" Width="1.5" />
+    <Position X="2.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAACACAAAAAAAAAAAAAAAQAAIAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Character.cs</FileName>
@@ -9,42 +9,42 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="PrograYProducAvanz_Examen1.Enemy">
-    <Position X="3.5" Y="4.75" Width="1.5" />
+    <Position X="1.25" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Enemy.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PrograYProducAvanz_Examen1.Game">
-    <Position X="4.5" Y="1.25" Width="1.5" />
+    <Position X="5.75" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>IACAAAAQACAAIAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
       <FileName>Game.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PrograYProducAvanz_Examen1.Inventory&lt;T&gt;">
-    <Position X="6.5" Y="1.75" Width="1.5" />
+    <Position X="7.75" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAACAAAAAAAAAAAgAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Inventory.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PrograYProducAvanz_Examen1.Player">
-    <Position X="1" Y="5" Width="1.5" />
+    <Position X="3.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Player.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PrograYProducAvanz_Examen1.Program">
-    <Position X="5.5" Y="4.5" Width="1.5" />
+    <Position X="7.75" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="PrograYProducAvanz_Examen1.IAttackable">
-    <Position X="7.75" Y="4.5" Width="1.5" />
+    <Position X="6" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Character.cs</FileName>
