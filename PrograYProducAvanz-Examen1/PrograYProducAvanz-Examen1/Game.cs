@@ -48,7 +48,7 @@ namespace PrograYProducAvanz_Examen1
                 
             }
 
-            Console.WriteLine(player.IsAlive ? "\u00a1Has Ganado!" : "Has sido derrotado");
+            Console.WriteLine(player.IsAlive ? "¡Has Ganado!" : "Has sido derrotado");
             player.Backpack.ShowItems();
 
             Console.WriteLine("\nHistorial de decisiones:");
