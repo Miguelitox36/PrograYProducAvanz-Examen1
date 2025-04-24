@@ -77,7 +77,7 @@ namespace PrograYProducAvanz_Examen1
                 {
                     enemy.Attack(player);
 
-                    Console.WriteLine("\u00bfQuieres usar pocion? (s/n)");
+                    Console.WriteLine("¡Quieres usar pocion? (s/n)");
                     string decision = Console.ReadLine();
                     decisionHistory.Push($"Usar pocion: {decision}");
 
@@ -87,7 +87,7 @@ namespace PrograYProducAvanz_Examen1
                         player.Backpack.AddItem("Poción usada");
                     }
 
-                    Console.WriteLine("\u00bfIntentas esquivar el siguiente ataque? (s/n)");
+                    Console.WriteLine("¡Intentas esquivar el siguiente ataque? (s/n)");
                     decision = Console.ReadLine();
                     decisionHistory.Push($"Intentar esquivar: {decision}");
 
@@ -96,7 +96,7 @@ namespace PrograYProducAvanz_Examen1
                         Random rand = new Random();
                         if (rand.NextDouble() < 5)
                         {
-                            Console.WriteLine("\u00a1Esquivaste el ataque!");
+                            Console.WriteLine("¡Esquivaste el ataque!");
                             continue;
                         }
                         else
