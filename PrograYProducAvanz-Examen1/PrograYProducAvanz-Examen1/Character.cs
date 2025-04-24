@@ -28,9 +28,5 @@ namespace PrograYProducAvanz_Examen1
 
         public bool IsAlive => Health > 0;
     }
-
-    public interface IAttackable
-    {
-        void Attack(Character target);
-    }
+        
 }
