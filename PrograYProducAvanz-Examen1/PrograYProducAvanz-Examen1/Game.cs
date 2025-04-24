@@ -94,7 +94,7 @@ namespace PrograYProducAvanz_Examen1
                     if (decision == "s")
                     {
                         Random rand = new Random();
-                        if (rand.NextDouble() < 5)
+                        if (rand.NextDouble() < 0.5)
                         {
                             Console.WriteLine("¡Esquivaste el ataque!");
                             continue;
